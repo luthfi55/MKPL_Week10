@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ContohProjectMaven</groupId>
   <artifactId>ContohProject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.3.4</version>
 
 <dependencies>
   <dependency>
@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/luthfi55/MKPL-CI_CD_Deployment</url>
+      <url>https://maven.pkg.github.com/luthfi55/MKPL_Week10</url>
     </repository>
   </distributionManagement>
   
